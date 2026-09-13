@@ -48,6 +48,8 @@ The main objectives of this project are:
 
 The dataset contains historical home loan application information.
 
+Dataset is huge So I have uploaded the dataset in G-Drive, you can find the link in the dataset.text file.
+
 The target variable is:
 
 ```text
